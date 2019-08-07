@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "215325999539",
+    "firebase_url": "https://fellahsolution.firebaseio.com",
+    "project_id": "fellahsolution",
+    "storage_bucket": "fellahsolution.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215325999539:android:45e19356af6368e1",
+        "android_client_info": {
+          "package_name": "com.soulutionfellah.fellah.fellahsolution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215325999539-jjdncpboc68v3ia8thv5up30q2un33on.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soulutionfellah.fellah.fellahsolution",
+            "certificate_hash": "636bc7398f92bf1163cdb2dd2c80c1fe4efd7509"
+          }
+        },
+        {
+          "client_id": "215325999539-o5nnib3pvatqp1acqics1oihmejvltgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO3xPvKIG1Aa3H3ykNeteNLVwczA7qp6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215325999539-o5nnib3pvatqp1acqics1oihmejvltgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
